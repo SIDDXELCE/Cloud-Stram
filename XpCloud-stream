@@ -1,57 +1,62 @@
-#EXTM3U
-#EXTINF:-1 xui-id="90000" tvg-id="" tvg-name="✦●✦ GENERAL ENTERTAINMENT ✦●✦" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",✦●✦ GENERAL ENTERTAINMENT ✦●✦
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+Playlist name : tq_cloud_stream
+Developed by: tq_admin
+Telegram group : https://t.me/@SIDDXELCE
+Last Updated: 12:40:19       24-11-2026
+
+#EXTINF:-1 xui-id="90000" tvg-id="" tvg-name="GENERAL ENTERTAINMENT" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",GENERAL ENTERTAINMENT
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG1qQdXyFS4hYPjnA6uM03RxMnIBv3Aa8FcIjuTvpXE_Q/ts
-#EXTINF:-1 xui-id="19046" tvg-id="channelwin.in" tvg-name="CHANNEL WIN SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fchwin.png" group-title="INDIA",CHANNEL WIN SD
+#EXTINF:-1 xui-id="19046" tvg-id="channelwin.in" tvg-name="CHANNEL WIN SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fchwin.png" group-title="INDIA",CHANNEL WIN
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEtMZKmIWJsYnItKMzIcGAy0rMkifvIbBMLXeVU8HoGlg/ts
 #EXTINF:-1 xui-id="19047" tvg-id="" tvg-name="TV ASIA" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",TV ASIA
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEoHPMSPRLZYMM7Ga7fDImY2PjQKW3q8pW2_RBvDVf4Zw/ts
-#EXTINF:-1 xui-id="19048" tvg-id="" tvg-name="SONY ASIA HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsony.png" group-title="INDIA",SONY ASIA HD
+#EXTINF:-1 xui-id="19048" tvg-id="" tvg-name="SONY ASIA HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsony.png" group-title="INDIA",SONY ASIA
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGM3tqfOgrrStRPi_Ut6MsIjkgWvJ7oXpkb1lZ8JmU3pQ/ts
 #EXTINF:-1 xui-id="19049" tvg-id="Channels.24.uk" tvg-name="CHANNEL-S HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fchs0.png" group-title="INDIA",CHANNEL-S HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHAsHBlzAc7guLN5aXWnH71X0uXtjBs6R3iaWBGkVir8A/ts
-#EXTINF:-1 xui-id="19091" tvg-id="mhone.in" tvg-name="MH ONE HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fmh1.png" group-title="INDIA",MH ONE HD
+#EXTINF:-1 xui-id="19091" tvg-id="mhone.in" tvg-name="MH ONE HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fmh1.png" group-title="INDIA",MH ONE
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAF8pEzKUkWN8-AHT11c3jGQ7SzPJ-7vLj2mBQLg2QGUXg/ts
-#EXTINF:-1 xui-id="19145" tvg-id="dy365.in" tvg-name="DY 365 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fdy365.png" group-title="INDIA",DY 365 HD
+#EXTINF:-1 xui-id="19145" tvg-id="dy365.in" tvg-name="DY 365 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fdy365.png" group-title="INDIA",DY 365
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEoYyzFk_lDQSuhlnhdORVglCUjnJQov5dxYFAKsyHGwQ/ts
-#EXTINF:-1 xui-id="19146" tvg-id="ibc24.in" tvg-name="IBC 24 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fibc2.png" group-title="INDIA",IBC 24 HD
+#EXTINF:-1 xui-id="19146" tvg-id="ibc24.in" tvg-name="IBC 24 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fibc2.png" group-title="INDIA",IBC 24
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGR3tLo4Tz_VEq3fw9Pp9QgJ4VceqThnxvCQZ6VP85RJg/ts
 #EXTINF:-1 xui-id="19149" tvg-id="patrikatvrajasthan.in" tvg-name="PATRIKA TV RAJ HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fchina%2Fpk.png" group-title="INDIA",PATRIKA TV RAJ HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEMbyjJsugmhk6fEj4y-U7c6d_any4-jtyLKX2fgWAApQ/ts
 #EXTINF:-1 xui-id="19166" tvg-id="andtvhd.in" tvg-name="&TV HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Ft1.png" group-title="INDIA",&TV HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGMeRyv-X32CcMii9cKymlowGRmFe7F3vmhSTihfQbCwA/ts
-#EXTINF:-1 xui-id="19167" tvg-id="" tvg-name="ARY FAMILY SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Faryfm.png" group-title="INDIA",ARY FAMILY SD
+#EXTINF:-1 xui-id="19167" tvg-id="" tvg-name="ARY FAMILY SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Faryfm.png" group-title="INDIA",ARY FAMILY HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFczg-eON3I_LHqE-600nTkjyjh3lwlB-xYZJgiYKVk5w/ts
-#EXTINF:-1 xui-id="19168" tvg-id="alankar.in" tvg-name="ALANKAR HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Falank.png" group-title="INDIA",ALANKAR HD
+#EXTINF:-1 xui-id="19168" tvg-id="alankar.in" tvg-name="ALANKAR HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Falank.png" group-title="INDIA",ALANKAR
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFg3hN04aqyFO1omT2yglE1m_w4SDzKtxjQozXZzLL0BQ/ts
-#EXTINF:-1 xui-id="19170" tvg-id="" tvg-name="HUM TV HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fhumt.png" group-title="INDIA",HUM TV HD
+#EXTINF:-1 xui-id="19170" tvg-id="" tvg-name="HUM TV HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fhumt.png" group-title="INDIA",HUM TV
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFnOb20uZv-2YWZznkFDczOg_3Sq_HFGarKlEkxVWKgSA/ts
-#EXTINF:-1 xui-id="19171" tvg-id="rangtv.in" tvg-name="RANG HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Frag.png" group-title="INDIA",RANG HD
+#EXTINF:-1 xui-id="19171" tvg-id="rangtv.in" tvg-name="RANG HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Frag.png" group-title="INDIA",RANG
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEQkdmwY5R6nYxuikny1KkI3rP6Yu3RUxRO9UJsD5WYhQ/ts
-#EXTINF:-1 xui-id="19172" tvg-id="rengonitv.in" tvg-name="RENGONI TV SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Freng.png" group-title="INDIA",RENGONI TV SD
+#EXTINF:-1 xui-id="19172" tvg-id="rengonitv.in" tvg-name="RENGONI TV SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Freng.png" group-title="INDIA",RENGONI TV
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEAgkiS8ONU3MWvha-BNzO39JY4NyOCSiR4vw6HCHTtIg/ts
-#EXTINF:-1 xui-id="19173" tvg-id="shemaroo.in" tvg-name="SHEMAROO TV SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fshem.png" group-title="INDIA",SHEMAROO TV SD
+#EXTINF:-1 xui-id="19173" tvg-id="shemaroo.in" tvg-name="SHEMAROO TV SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fshem.png" group-title="INDIA",SHEMAROO TV
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG14pVpPO9wasciLJ_sY81vjuab3hoP8xPtJiV6H82LPA/ts
 #EXTINF:-1 xui-id="19174" tvg-id="theqindia.in" tvg-name="THE Q ENTERTAINMENT HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Ftqind.png" group-title="INDIA",THE Q ENTERTAINMENT HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHnqAgQrSI54dpmDzEvsc--UfaL_JvH0XhnVDgRyT5Hgg/ts
-#EXTINF:-1 xui-id="19175" tvg-id="" tvg-name="JONACK TV SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fjonc.png" group-title="INDIA",JONACK TV SD
+#EXTINF:-1 xui-id="19175" tvg-id="" tvg-name="JONACK TV SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fjonc.png" group-title="INDIA",JONACK TV
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHypHvcHrhT2vhMwBCo3raMrdin0r_6_z1ahotlLnxc-g/ts
-#EXTINF:-1 xui-id="19176" tvg-id="ramdhenutv.in" tvg-name="RAMDHENU HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Framd.png" group-title="INDIA",RAMDHENU HD
+#EXTINF:-1 xui-id="19176" tvg-id="ramdhenutv.in" tvg-name="RAMDHENU HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Framd.png" group-title="INDIA",RAMDHENU
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGB0KIINjy9K96I7mns2UlxwcACNlzf8FtDlvg4lkN4eA/ts
 #EXTINF:-1 xui-id="19177" tvg-id="" tvg-name="DANGAL" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2FDANGAL.png" group-title="INDIA",DANGAL
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGQDWCn-p7coFDFadbqC1r7nBrrnqSPjhmAJyQmVUcDlQ/ts
-#EXTINF:-1 xui-id="19178" tvg-id="colorshd.in" tvg-name="COLORS FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fclst.png" group-title="INDIA",COLORS FHD
+#EXTINF:-1 xui-id="19178" tvg-id="colorshd.in" tvg-name="COLORS HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fclst.png" group-title="INDIA",COLORS HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAH_qov_20EY4rXZMSR4ZFdx6a3k6znWUatpTkk4l5-Kgg/ts
-#EXTINF:-1 xui-id="19179" tvg-id="colorsinfinityhd.in" tvg-name="COLORS INFINITY FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fcolrind.png" group-title="INDIA",COLORS INFINITY FHD
+#EXTINF:-1 xui-id="19179" tvg-id="colorsinfinityhd.in" tvg-name="COLORS INFINITY HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fcolrind.png" group-title="INDIA",COLORS INFINITY HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGr7DWdJ0zm8-uYBosZTFUsjuko5aVXSEITA8y_pxZM5w/ts
-#EXTINF:-1 xui-id="19180" tvg-id="colorssuper.in" tvg-name="COLORS SUPER FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fclsu.png" group-title="INDIA",COLORS SUPER FHD
+#EXTINF:-1 xui-id="19180" tvg-id="colorssuper.in" tvg-name="COLORS SUPER HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fclsu.png" group-title="INDIA",COLORS SUPER HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEivdDyd-oADZJzGpIWlBiy_EsOiLqnnFhPCJrTyVU4eg/ts
-#EXTINF:-1 xui-id="19181" tvg-id="colorsrishtey.in" tvg-name="COLORS RISHTEY FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Frishclr.png" group-title="INDIA",COLORS RISHTEY FHD
+#EXTINF:-1 xui-id="19181" tvg-id="colorsrishtey.in" tvg-name="COLORS RISHTEY HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Frishclr.png" group-title="INDIA",COLORS RISHTEY HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEiN7qrXWMNS4sOPgXZkTwzfwKNsvISUAb4b4b8TIVDyQ/ts
 #EXTINF:-1 xui-id="19182" tvg-id="" tvg-name="COLORS ORIYA HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fco.png" group-title="INDIA",COLORS ORIYA HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEpYuWWmzIL11iGO4WyitthDCsQfXRZzMaWjgnSxTbEMQ/ts
-#EXTINF:-1 xui-id="19183" tvg-id="starplus.in" tvg-name="STAR PLUS FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsplus1.png" group-title="INDIA",STAR PLUS FHD
+#EXTINF:-1 xui-id="19183" tvg-id="starplus.in" tvg-name="STAR PLUS HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsplus1.png" group-title="INDIA",STAR PLUS HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFjZN2kCgkid87hX5mcvggK_CMvTtmcZUGSfIL3vPohaQ/ts
-#EXTINF:-1 xui-id="19184" tvg-id="starbharat.in" tvg-name="STAR BHARAT FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstrbh.png" group-title="INDIA",STAR BHARAT FHD
+#EXTINF:-1 xui-id="19184" tvg-id="starbharat.in" tvg-name="STAR BHARAT HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstrbh.png" group-title="INDIA",STAR BHARAT HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFVINL7pm8lfK6e0WsGz-dc8DmPmsmw0-EsmzA-Pc-R1Q/ts
 #EXTINF:-1 xui-id="19191" tvg-id="" tvg-name="COMEDY CENTRAL HD ENG" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2FCOMEDY%20CENTRAL%20HD%20ENG.png" group-title="INDIA",COMEDY CENTRAL HD ENG
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHh_3BbnsvW19VnrXb8b2QCk6JIDfocZ2sN08KyR5I1lQ/ts
@@ -59,25 +64,25 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHUzkE0XnNbEofWdWlQboHlEVQ8MLkUf8YPwzMLARRLAQ/ts
 #EXTINF:-1 xui-id="19193" tvg-id="" tvg-name="THE Q YOU HD ENG" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2FTHE%20Q%20YOU%20HD.png" group-title="INDIA",THE Q YOU HD ENG
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEu0a_VXwx35G9J22-VXYfNuPJoOZT-vn96qbMQ2zeVFg/ts
-#EXTINF:-1 xui-id="19204" tvg-id="b4ukadak.in" tvg-name="B4U KADAK HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fb4uk.png" group-title="INDIA",B4U KADAK HD
+#EXTINF:-1 xui-id="19204" tvg-id="b4ukadak.in" tvg-name="B4U KADAK HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fb4uk.png" group-title="INDIA",B4U KADAK
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEoD8c6WZ0oHTkw6hcEQ1nqL-ew6LJfG8FtkuOy1IkGXw/ts
-#EXTINF:-1 xui-id="19223" tvg-id="sony.in" tvg-name="SONY FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsny.png" group-title="INDIA",SONY FHD
+#EXTINF:-1 xui-id="19223" tvg-id="sony.in" tvg-name="SONY HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsny.png" group-title="INDIA",SONY HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHvhGDysXuDJw5YwAx9QGWRdZoqWMN0LZM9CdhlG2dViw/ts
 #EXTINF:-1 xui-id="19224" tvg-id="sonysabhd.in" tvg-name="SONY SAB HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsnysb.png" group-title="INDIA",SONY SAB HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHoeqn65CprXU79NZmJAtfXw2XEjivC5o_8ec7I8oWiHA/ts
 #EXTINF:-1 xui-id="19225" tvg-id="sonyhd.in" tvg-name="SONY TV HD (UK)" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Fsony.png" group-title="INDIA",SONY TV HD (UK)
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAE55kJFTLXIkxy6-EP1urmaqLf-72KHDpb9tDlq7NGkvw/ts
-#EXTINF:-1 xui-id="19226" tvg-id="" tvg-name="SONY CHANNEL SD (UK)" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Fsonymo.png" group-title="INDIA",SONY CHANNEL SD (UK)
+#EXTINF:-1 xui-id="19226" tvg-id="" tvg-name="SONY CHANNEL SD (UK)" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Fsonymo.png" group-title="INDIA",SONY SD (UK)
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHQuo_Kb97FKao8RV12i864ZxEM_EUHApKWayIJQH3YrA/ts
-#EXTINF:-1 xui-id="19231" tvg-id="sonypal.in" tvg-name="SONY PAL HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsnypa.png" group-title="INDIA",SONY PAL HD
+#EXTINF:-1 xui-id="19231" tvg-id="sonypal.in" tvg-name="SONY PAL HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsnypa.png" group-title="INDIA",SONY PAL
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGF6KoQyD8oEIVoc4f952nWy2Y-49Tk-MSWjBLASZiadg/ts
-#EXTINF:-1 xui-id="19234" tvg-id="sonywah.in" tvg-name="SONY WAH SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsnywh.png" group-title="INDIA",SONY WAH SD
+#EXTINF:-1 xui-id="19234" tvg-id="sonywah.in" tvg-name="SONY WAH SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsnywh.png" group-title="INDIA",SONY WAH
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFohFHzj0bwc13lqCUhcR9zjduw7-Y3Fw02DI1YMcQBzA/ts
 #EXTINF:-1 xui-id="19235" tvg-id="" tvg-name="SONY PAL (USA)" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Fsony.png" group-title="INDIA",SONY PAL (USA)
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHPoQ76EaJ-JTZkt8e0jM58kpdcuSDycO4xfUCM02DHmg/ts
-#EXTINF:-1 xui-id="19238" tvg-id="Xplore.us2" tvg-name="& XPLORE FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fexp.png" group-title="INDIA",& XPLORE FHD
+#EXTINF:-1 xui-id="19238" tvg-id="Xplore.us2" tvg-name="& XPLORE HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fexp.png" group-title="INDIA",& XPLORE HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHP8f3JdFeblzko9Wtgn4Phg-ur8pcgwJA23D3MJCUSpQ/ts
-#EXTINF:-1 xui-id="19239" tvg-id="GEO.TV.uk" tvg-name="GEO TV HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fgeons.png" group-title="INDIA",GEO TV HD
+#EXTINF:-1 xui-id="19239" tvg-id="GEO.TV.uk" tvg-name="GEO TV HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fgeons.png" group-title="INDIA",GEO TV
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHhWsjuoEPq5a65mVlY9Zn0uRQMuHLZSK6GW7pO9AtjaQ/ts
 #EXTINF:-1 xui-id="19243" tvg-id="zeetv.in" tvg-name="ZEE TV HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fzeet.png" group-title="INDIA",ZEE TV HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEhuSOH1FHio5nZAr9nEkx01CtiOb3xgXcmET3wKLtTEw/ts
@@ -87,9 +92,9 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGfdLmLtTU3tQlQFBEp6W8OlGBKW4es4ExpsqHbKjAVSw/ts
 #EXTINF:-1 xui-id="19246" tvg-id="" tvg-name="ZEE TV USA" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fzeet.png" group-title="INDIA",ZEE TV USA
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHBWYSirgpdarh1PGKaHp1L7aT4-F7Vi4r1nn_L1zTfpQ/ts
-#EXTINF:-1 xui-id="19247" tvg-id="zeeaction.in" tvg-name="ZEE ACTION HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fzeeac.png" group-title="INDIA",ZEE ACTION HD
+#EXTINF:-1 xui-id="19247" tvg-id="zeeaction.in" tvg-name="ZEE ACTION HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fzeeac.png" group-title="INDIA",ZEE ACTION
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGcZ52m60yc7tzMq8cewu43Na-nPW_HRZjHoBr7hqadgA/ts
-#EXTINF:-1 xui-id="19248" tvg-id="zanmol.in" tvg-name="ZEE ANMOL HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fzeeanm1.png" group-title="INDIA",ZEE ANMOL HD
+#EXTINF:-1 xui-id="19248" tvg-id="zanmol.in" tvg-name="ZEE ANMOL HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fzeeanm1.png" group-title="INDIA",ZEE ANMOL
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAH_i4CSeZzHaX8pmyB7PKvNzeeyqtmSvB4LGVdNfJiKRg/ts
 #EXTINF:-1 xui-id="19250" tvg-id="zeebollywood.in" tvg-name="ZEE BOLLYWOOD SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fzeebol.png" group-title="INDIA",ZEE BOLLYWOOD SD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGqMCCAXzqC0jCTkEFZ3YBVqYlXJbtzbTZ_tMD7K8aC1A/ts
@@ -99,23 +104,23 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHCleu8xTdAT3F1VB9vuhLUg91kg-g51KrC1hHfFqMQCA/ts
 #EXTINF:-1 xui-id="19253" tvg-id="bigmagic.in" tvg-name="ZEE BIG MAGIC HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fzeebigmgc.png" group-title="INDIA",ZEE BIG MAGIC HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFbaljnX5VUAhBNNLck7_REJdCrfmfkccHs6BxKmk4QmQ/ts
-#EXTINF:-1 xui-id="19254" tvg-id="zeecafe.in" tvg-name="ZEE CAFE FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fzeecf1.png" group-title="INDIA",ZEE CAFE FHD
+#EXTINF:-1 xui-id="19254" tvg-id="zeecafe.in" tvg-name="ZEE CAFE HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fzeecf1.png" group-title="INDIA",ZEE CAFE HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHoLllBNJiPeP6b7lyTcQsRRQklpAW9qypVai6O6YOCPw/ts
-#EXTINF:-1 xui-id="19255" tvg-id="zeeclassic.in" tvg-name="ZEE CLASSIC SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fzeecl.png" group-title="INDIA",ZEE CLASSIC SD
+#EXTINF:-1 xui-id="19255" tvg-id="zeeclassic.in" tvg-name="ZEE CLASSIC SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fzeecl.png" group-title="INDIA",ZEE CLASSIC
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAF-B2IcODC4wZbXAf7v_vKlbohG8oSaez9FhEH0GJkZmw/ts
 #EXTINF:-1 xui-id="19257" tvg-id="zeehindustan.in" tvg-name="ZEE HINDUSTAN HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fzeehin.png" group-title="INDIA",ZEE HINDUSTAN HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHKrE17ItocnutIZI2zcP8tv2ci9IKBCGYGLt-GCnqQBA/ts
-#EXTINF:-1 xui-id="19260" tvg-id="zeesalaam.in" tvg-name="ZEE SALAAM HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fzeesal.png" group-title="INDIA",ZEE SALAAM HD
+#EXTINF:-1 xui-id="19260" tvg-id="zeesalaam.in" tvg-name="ZEE SALAAM HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fzeesal.png" group-title="INDIA",ZEE SALAAM
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEcmV5lXkuCrd1jxpk57xmgjGXCmcuVE0ASwszOlL8hzQ/ts
-#EXTINF:-1 xui-id="19261" tvg-id="zeesarthak.in" tvg-name="ZEE SARTHAK HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fzeesar.png" group-title="INDIA",ZEE SARTHAK HD
+#EXTINF:-1 xui-id="19261" tvg-id="zeesarthak.in" tvg-name="ZEE SARTHAK HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fzeesar.png" group-title="INDIA",ZEE SARTHAK
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEXDBnVbfk6NdIj_vuxEFt14rGc7FjyAAl7Rgy0AycqFQ/ts
 #EXTINF:-1 xui-id="19281" tvg-id="" tvg-name="SONY YAY (USA)" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Fsony.png" group-title="INDIA",SONY YAY (USA)
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHMKDOlvQVAknrP6g8A_O09ztrTLVeYkxplPFucE0EQNw/ts
 #EXTINF:-1 xui-id="19282" tvg-id="sonyyay.in" tvg-name="SONY YAY" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2FSONY%20YAY.png" group-title="INDIA",SONY YAY
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHCT9nNCqorlTSSruljaRdzRPUdmhxTs78vWSX8119f0A/ts
-#EXTINF:-1 xui-id="19303" tvg-id="starutsav.in" tvg-name="STAR UTSAV SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstrut.png" group-title="INDIA",STAR UTSAV SD
+#EXTINF:-1 xui-id="19303" tvg-id="starutsav.in" tvg-name="STAR UTSAV SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstrut.png" group-title="INDIA",STAR UTSAV
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGi-Kl7ibuCb_BJBjXd3NPq8GA5U8dDgsqCcQ2rJjDjiw/ts
-#EXTINF:-1 xui-id="19308" tvg-id="e24.in" tvg-name="E24 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fe24.png" group-title="INDIA",E24 HD
+#EXTINF:-1 xui-id="19308" tvg-id="e24.in" tvg-name="E24 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fe24.png" group-title="INDIA",E24
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHFfUCl1cEMS_1YAduP3I_pQX7zi6dsRtwpyUDfX7FEKg/ts
 #EXTINF:-1 xui-id="19358" tvg-id="" tvg-name="5AAB TV HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2F5aab.png" group-title="INDIA",5AAB TV HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEqxtPhLgSmB8pf_4IleaxbCNSG1WPfSSoJ-X7w7Xj5kA/ts
@@ -125,7 +130,7 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGrOYfmzQRxmIJuVFoRvw18KDoDlpLsL8G1C5xMByGOmA/ts
 #EXTINF:-1 xui-id="19371" tvg-id="INH.24x7.in" tvg-name="INH 24X7" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",INH 24X7
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEFsyt-eKGrl_VC7H2_QG1a5BbcY5kQTGnNNUAuxLGzUQ/ts
-#EXTINF:-1 xui-id="19374" tvg-id="" tvg-name="HUM TV EUROPE HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",HUM TV EUROPE HD
+#EXTINF:-1 xui-id="19374" tvg-id="" tvg-name="HUM TV EUROPE HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",HUM TV EUROPE
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFALn3EtYJ9yZjvZuv2Hj38xbKlEz9jd_NQxnIHZIlZxg/ts
 #EXTINF:-1 xui-id="19375" tvg-id="Brit.Asia.TV.uk" tvg-name="BRIT ASIA TV SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fbrit.png" group-title="INDIA",BRIT ASIA TV SD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG_X-YiJnUnTs102SHXZW0KLIdgS-nKg2_-8S6X2TAgMg/ts
@@ -141,7 +146,7 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGKXPsDbDcPKuoEOFMRGevDzUUqoCsTS36BcYcTybOROQ/ts
 #EXTINF:-1 xui-id="19386" tvg-id="sonysab.in" tvg-name="SONY SAB (UK)" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsnysb.png" group-title="INDIA",SONY SAB (UK)
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEXGzNoLUW5HxVzpwNkcEb-7AUhgtzenb8O2ywzcGWq1A/ts
-#EXTINF:-1 xui-id="19388" tvg-id="" tvg-name="Zee TV FHD UK" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",Zee TV FHD UK
+#EXTINF:-1 xui-id="19388" tvg-id="" tvg-name="Zee TV HD UK" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",Zee TV HD UK
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAE4ZZpyvRQ9_F9PhJq9swvImKqj-0T03VtC3PyRpbLBbw/ts
 #EXTINF:-1 xui-id="19394" tvg-id="mastiii.in" tvg-name="MASTII HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fmasti.png" group-title="INDIA",MASTII HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEAvYyEKjxTVrInygGE84TJgwmtmjmpJMnXThNhYO_DrA/ts
@@ -149,61 +154,61 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAH8ilRqs-reykO6u6wPI1-1lOncrVhQcUeluSePiYNTyQ/ts
 #EXTINF:-1 xui-id="19402" tvg-id="" tvg-name="BIGG BOSS 24X7 MALAYALAM" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fbboss.png" group-title="INDIA",BIGG BOSS 24X7 MALAYALAM
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGSKwuj4yJ3AVZ_GzD0YMq_1zUZazBJQ1lZKlFbTnUn8Q/ts
-#EXTINF:-1 xui-id="90001" tvg-id="" tvg-name="✦●✦ MOVIES ✦●✦" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",✦●✦ MOVIES ✦●✦
+#EXTINF:-1 xui-id="90001" tvg-id="" tvg-name="MOVIES" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",MOVIES
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG1qQdXyFS4hYPjnA6uM03RxMnIBv3Aa8FcIjuTvpXE_Q/ts
-#EXTINF:-1 xui-id="19195" tvg-id="mnplushd.in" tvg-name="MN+ MOVIES FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fmnmv1.png" group-title="INDIA",MN+ MOVIES FHD
+#EXTINF:-1 xui-id="19195" tvg-id="mnplushd.in" tvg-name="MN+ MOVIES HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fmnmv1.png" group-title="INDIA",MN+ MOVIES HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGGrpShs_0Rt8V4NKI-hPlZISl2OYbF8vhlfdNEw3cVAA/ts
 #EXTINF:-1 xui-id="19196" tvg-id="" tvg-name="MINIPLEX HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2FMINIPLEX%20HD.png" group-title="INDIA",MINIPLEX HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGLd1VCCE8uzBDDnqS9XehXZMdkWmk5qXZ3fZkFAK0C7A/ts
 #EXTINF:-1 xui-id="19197" tvg-id="mahamovie.in" tvg-name="MAHA MOVIE HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fmahamv.png" group-title="INDIA",MAHA MOVIE HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGLNWualQhApk8R3K1oUy3768a9ZJQtMruxWucG69xp8A/ts
-#EXTINF:-1 xui-id="19198" tvg-id="stargoldselecthd.in" tvg-name="STAR GOLD SELECT FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstrglds.png" group-title="INDIA",STAR GOLD SELECT FHD
+#EXTINF:-1 xui-id="19198" tvg-id="stargoldselecthd.in" tvg-name="STAR GOLD SELECT HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstrglds.png" group-title="INDIA",STAR GOLD SELECT HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGzibcrMukRXSjrS-qEcVO4lntNK9u0KB55sJCcC6xZEg/ts
-#EXTINF:-1 xui-id="19199" tvg-id="stargold.in" tvg-name="STAR GOLD FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstrgld2.png" group-title="INDIA",STAR GOLD FHD
+#EXTINF:-1 xui-id="19199" tvg-id="stargold.in" tvg-name="STAR GOLD HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstrgld2.png" group-title="INDIA",STAR GOLD HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGHCEdlnBuMMTs1BbQu9bPX5A7kKic40ixWb4DvRbZ0HA/ts
 #EXTINF:-1 xui-id="19200" tvg-id="stargoldhd2.in" tvg-name="STAR GOLD 2 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstrgld2.png" group-title="INDIA",STAR GOLD 2 HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAF7qxZSKO10k82I33QTSSjitzjRVUv14N6TFgHbigFOcA/ts
-#EXTINF:-1 xui-id="19201" tvg-id="starmoviesselecthd.in" tvg-name="STAR MOVIES SELECT FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstrmvse.png" group-title="INDIA",STAR MOVIES SELECT FHD
+#EXTINF:-1 xui-id="19201" tvg-id="starmoviesselecthd.in" tvg-name="STAR MOVIES SELECT HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstrmvse.png" group-title="INDIA",STAR MOVIES SELECT HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEhtKUvgr1lIpAjW6Gi6L-LyGLgPqUA8U42BBJMMDEyvQ/ts
 #EXTINF:-1 xui-id="19202" tvg-id="starmovieshd.in" tvg-name="STAR MOVIES HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstrmvs.png" group-title="INDIA",STAR MOVIES HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEmVCy5waknXeof8ay2j40qmSS5aHIn6dBj-5Qa6aSmOA/ts
 #EXTINF:-1 xui-id="19203" tvg-id="starutsavmovies.in" tvg-name="STAR UTSAV MOVIES HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstrumv.png" group-title="INDIA",STAR UTSAV MOVIES HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEJuOG67-vIjuz4bCvVzXV-_GG65ZbD14Z-6NYAg668sQ/ts
-#EXTINF:-1 xui-id="19205" tvg-id="b4umovies.in" tvg-name="B4U MOVIES SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fb4umv.png" group-title="INDIA",B4U MOVIES SD
+#EXTINF:-1 xui-id="19205" tvg-id="b4umovies.in" tvg-name="B4U MOVIES  " tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fb4umv.png" group-title="INDIA",B4U MOVIES  
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHIh5Q2eBgwwsBxtyxqAbk2LQHJEH2F0CDAO3wq2dAxng/ts
 #EXTINF:-1 xui-id="19206" tvg-id="bflixmovies.in" tvg-name="BFLIX MOVIES HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fbflmx.png" group-title="INDIA",BFLIX MOVIES HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHR_6aISfKqrFq6dTMMPQQhaZHl5Vitd1oGf-oPVhGAaA/ts
 #EXTINF:-1 xui-id="19207" tvg-id="zeecinemaindiahd.in" tvg-name="DABANGG HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fdaban.png" group-title="INDIA",DABANGG HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEfFHGy_Fq71zn_TWvmYH5cXPurCeJnRUdoHeyAvxF1ow/ts
-#EXTINF:-1 xui-id="19208" tvg-id="moviesnow.in" tvg-name="MOVIES NOW SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fmvns.png" group-title="INDIA",MOVIES NOW SD
+#EXTINF:-1 xui-id="19208" tvg-id="moviesnow.in" tvg-name="MOVIES NOW  " tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fmvns.png" group-title="INDIA",MOVIES NOW  
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAE9I0apaNqDEsUWicSEtRG2FPvHgo7Kop7p_JWdmbdatw/ts
-#EXTINF:-1 xui-id="19209" tvg-id="" tvg-name="MOVIES ACTIVE FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fmvac.png" group-title="INDIA",MOVIES ACTIVE FHD
+#EXTINF:-1 xui-id="19209" tvg-id="" tvg-name="MOVIES ACTIVE HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fmvac.png" group-title="INDIA",MOVIES ACTIVE HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHcHm8Ghh9RZ9NTn2T07pQBYWiiu09DeTMP7QTbDS21Fw/ts
-#EXTINF:-1 xui-id="19210" tvg-id="mnx.in" tvg-name="MNX FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fmnx.png" group-title="INDIA",MNX FHD
+#EXTINF:-1 xui-id="19210" tvg-id="mnx.in" tvg-name="MNX HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fmnx.png" group-title="INDIA",MNX HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHXxj8a5XAEZf2WMSL0PIVZ6EZ-qk6tWnXI3wmxfgaK-w/ts
 #EXTINF:-1 xui-id="19211" tvg-id="romedynow.in" tvg-name="ROMEDY NOW HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Frmdnw.png" group-title="INDIA",ROMEDY NOW HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFzS63fqrBvwI2nJzrltV7hz25DyyCLjLd8G5CiMFdLQQ/ts
 #EXTINF:-1 xui-id="19212" tvg-id="utvmovies.in" tvg-name="UTV MOVIES HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Futvmv.png" group-title="INDIA",UTV MOVIES HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAElvJnNzUhrLFfhz4-rMB_9Yspdaie6LFVWizDX_gJY4Q/ts
-#EXTINF:-1 xui-id="19213" tvg-id="utvhd.in" tvg-name="UTV FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Futv.png" group-title="INDIA",UTV FHD
+#EXTINF:-1 xui-id="19213" tvg-id="utvhd.in" tvg-name="UTV HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Futv.png" group-title="INDIA",UTV HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHPVkE9lDl0ipfR0vsnXdnaDW93F-BeIw5rnAeVmW2LUg/ts
 #EXTINF:-1 xui-id="19214" tvg-id="andpictureshd.in" tvg-name="&PICTURES HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fpict.png" group-title="INDIA",&PICTURES HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHXvd79SGdZ3UKYIm2fDCjt2WbtRGpq9yoSFiCZwGZpSg/ts
-#EXTINF:-1 xui-id="19215" tvg-id="andprivehd.in" tvg-name="&PRIVÉ FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fpriv.png" group-title="INDIA",&PRIVÉ FHD
+#EXTINF:-1 xui-id="19215" tvg-id="andprivehd.in" tvg-name="&PRIVÉ HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fpriv.png" group-title="INDIA",&PRIVÉ HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFurIilgBUTqmRNEW1d5ZRWXbgQQa5r0-qWUJn0i9D-iQ/ts
-#EXTINF:-1 xui-id="19216" tvg-id="andflixhd.in" tvg-name="& FLIX FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflix.png" group-title="INDIA",& FLIX FHD
+#EXTINF:-1 xui-id="19216" tvg-id="andflixhd.in" tvg-name="& FLIX HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflix.png" group-title="INDIA",& FLIX HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEm6TtEF0MWoU3ZJ6r5pLH48jYopffBhpq03f1y26XGYQ/ts
-#EXTINF:-1 xui-id="19217" tvg-id="" tvg-name="ABZY MOVIES SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fabzmv.png" group-title="INDIA",ABZY MOVIES SD
+#EXTINF:-1 xui-id="19217" tvg-id="" tvg-name="ABZY MOVIES  " tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fabzmv.png" group-title="INDIA",ABZY MOVIES  
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFSF38pAmbOTqJeQ8PeownA7Z6VcGwSyE05cW12-9GTQA/ts
 #EXTINF:-1 xui-id="19218" tvg-id="colorscineplexhd.in" tvg-name="COLORS CINEPLEX BOLLYWOOD HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fcolcin.png" group-title="INDIA",COLORS CINEPLEX BOLLYWOOD HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEqdxSrgg8OjemM0PKmoOfNVNXQfDj2XZ5ZoIEedf9vqg/ts
-#EXTINF:-1 xui-id="19219" tvg-id="colorscineplexhd.in" tvg-name="COLORS CINEPLEX SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fcolcin.png" group-title="INDIA",COLORS CINEPLEX SD
+#EXTINF:-1 xui-id="19219" tvg-id="colorscineplexhd.in" tvg-name="COLORS CINEPLEX  " tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fcolcin.png" group-title="INDIA",COLORS CINEPLEX  
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFN8uwZkH6Mrd9iGdNcGseoG8L02VrKOuojDS916oE0Ug/ts
 #EXTINF:-1 xui-id="19220" tvg-id="" tvg-name="RISHTEY CINEPLEX HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Fclrsnc0.png" group-title="INDIA",RISHTEY CINEPLEX HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGxk0-g5eCKLQBgpAoHVef2G_AdvEKo6MdzNixAVypWQA/ts
 #EXTINF:-1 xui-id="19221" tvg-id="" tvg-name="MANORANJAN GRAND" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fmanoj.png" group-title="INDIA",MANORANJAN GRAND
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHRLbPROkpCPU0T2iCVF_hsXvRy__hA6mlmABRxMZ3ujA/ts
-#EXTINF:-1 xui-id="19227" tvg-id="sonymaxhd.in" tvg-name="SONY MAX FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsnymx.png" group-title="INDIA",SONY MAX FHD
+#EXTINF:-1 xui-id="19227" tvg-id="sonymaxhd.in" tvg-name="SONY MAX HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsnymx.png" group-title="INDIA",SONY MAX HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEpKnvRpOSv3jSZ_X40nAJO9nj1U1KXaInDs7yzGtly4Q/ts
 #EXTINF:-1 xui-id="19228" tvg-id="sonymaxhd.in" tvg-name="SONY MAX HD (UK)" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Fsnymx.png" group-title="INDIA",SONY MAX HD (UK)
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEH14RObhKdhoG4YczketZMqtH12XjVWm5yD0SC8SAK4A/ts
@@ -211,13 +216,13 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGS9RqXBU4Me4-DR6SSSn6yi9rg5PIbGyZSaIgP-DBwHg/ts
 #EXTINF:-1 xui-id="19230" tvg-id="" tvg-name="SONY MOVIES (UK)" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Fsonymo.png" group-title="INDIA",SONY MOVIES (UK)
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG47ka13AjGzNEsB_ZC7KjIqFlMIiERAWv6SDMNRVN2KA/ts
-#EXTINF:-1 xui-id="19232" tvg-id="sonypixhd.in" tvg-name="SONY PIX FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsnypix.png" group-title="INDIA",SONY PIX FHD
+#EXTINF:-1 xui-id="19232" tvg-id="sonypixhd.in" tvg-name="SONY PIX HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsnypix.png" group-title="INDIA",SONY PIX HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHgldrHoZ_J3V1LZzW05yO4GpbaVdO2X8rbFx1GMWNriQ/ts
 #EXTINF:-1 xui-id="19236" tvg-id="Sony.Max.SD.in" tvg-name="SONY MAX (USA)" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Fsony.png" group-title="INDIA",SONY MAX (USA)
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGo-WZ4GpKReZ1IoJ8juJhtcCqkgCpFrFT3NxYDessn4Q/ts
 #EXTINF:-1 xui-id="19237" tvg-id="Sony.MAX2.in" tvg-name="SONY MAX 2 (USA)" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Fsony.png" group-title="INDIA",SONY MAX 2 (USA)
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFY-GQEaBTzzo2-rJTwec7HqI90TEIGM7fEGiaGi9igUA/ts
-#EXTINF:-1 xui-id="19242" tvg-id="zeecinema.in" tvg-name="ZEE CINEMA FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fzecn1.png" group-title="INDIA",ZEE CINEMA FHD
+#EXTINF:-1 xui-id="19242" tvg-id="zeecinema.in" tvg-name="ZEE CINEMA HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fzecn1.png" group-title="INDIA",ZEE CINEMA HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEuuaE6h2cuqgEOh2O04lbGnhv5MrJ-XvSkENtpJ8BChA/ts
 #EXTINF:-1 xui-id="19249" tvg-id="zeeanmolcinema.in" tvg-name="ZEE ANMOL CINEMA HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fzeeancn.png" group-title="INDIA",ZEE ANMOL CINEMA HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHl9qeFj9M4YdEaBqmNiO9MGF7pfQZ34jS5JE0OYonToA/ts
@@ -239,7 +244,7 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGw1MMeuE8lsmZ77ldUicvnVhf10mraLXv3nOl1PFKe0Q/ts
 #EXTINF:-1 xui-id="19395" tvg-id="Boogle.Bollywood.in" tvg-name="BOOGLE BOLLYWOOD SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",BOOGLE BOLLYWOOD SD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFW5mnNZHfk9R-cPt7N1MJOHsUEA6-GQgZ541aY7iKbSQ/ts
-#EXTINF:-1 xui-id="90002" tvg-id="" tvg-name="✦●✦ NEWS & CURRENT AFFAIRS ✦●✦" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",✦●✦ NEWS & CURRENT AFFAIRS ✦●✦
+#EXTINF:-1 xui-id="90002" tvg-id="" tvg-name="NEWS & CURRENT AFFAIRS" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",NEWS & CURRENT AFFAIRS
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG1qQdXyFS4hYPjnA6uM03RxMnIBv3Aa8FcIjuTvpXE_Q/ts
 #EXTINF:-1 xui-id="19063" tvg-id="Sansad.TV.HD.in" tvg-name="SANSAD TV HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsans.png" group-title="INDIA",SANSAD TV HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFJlzlPV_KQ_eTnEs5B4HklZ0LPg734zKyroJ1B3ldYLg/ts
@@ -275,7 +280,7 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEuNwCcccFP4pmr-PDJ3rSe49tlsw7-rEEycvU9utpKCA/ts
 #EXTINF:-1 xui-id="19107" tvg-id="timesnowhd.in" tvg-name="TIMES NOW HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Ftmnw.png" group-title="INDIA",TIMES NOW HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHA3UY-LYlxeZrii33OFsJtsiElT1naDFtjUJfuDSXxlQ/ts
-#EXTINF:-1 xui-id="19108" tvg-id="Times.Now.World.in" tvg-name="TIMES NOW WORLD FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Ftmnw.png" group-title="INDIA",TIMES NOW WORLD FHD
+#EXTINF:-1 xui-id="19108" tvg-id="Times.Now.World.in" tvg-name="TIMES NOW WORLD HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Ftmnw.png" group-title="INDIA",TIMES NOW WORLD HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGJ9OaxgmEeqkQ3G10NBEDln8s89NMmpt5b6cbRySBSGw/ts
 #EXTINF:-1 xui-id="19109" tvg-id="Times.Now.Navbharat.in" tvg-name="TIMES NOW NAVBHARAT HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Ftmnw.png" group-title="INDIA",TIMES NOW NAVBHARAT HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHDA_ppkZtCpQbyf28kvlFtX8BNNUUD0mynE0DSp97fGw/ts
@@ -301,11 +306,11 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHpKwoJToeE7HtOQ3nor0Wj-l9L4UNlLFVDtmutwn3fNw/ts
 #EXTINF:-1 xui-id="19120" tvg-id="dw.in" tvg-name="DW NEWS HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fdwnew.png" group-title="INDIA",DW NEWS HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHffsDadB61vnXyBcSUVHXN-SSeKyLXJmMZ5y8ZydEKVg/ts
-#EXTINF:-1 xui-id="19121" tvg-id="channelnewsasia.in" tvg-name="CHANNEL NEWS ASIA FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fchnsas.png" group-title="INDIA",CHANNEL NEWS ASIA FHD
+#EXTINF:-1 xui-id="19121" tvg-id="channelnewsasia.in" tvg-name="CHANNEL NEWS ASIA HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fchnsas.png" group-title="INDIA",CHANNEL NEWS ASIA HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGNa5YnKjBKjqcl7ZFgIhoXQeYjoMf_9kwzSFs4vLhPkg/ts
 #EXTINF:-1 xui-id="19122" tvg-id="cnbc-tv18.in" tvg-name="CNBC TV18 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fcnbc.png" group-title="INDIA",CNBC TV18 HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGjSec8w36BHc6-A3yrtExxymwcxU9o3lQmXEfZcDnvfA/ts
-#EXTINF:-1 xui-id="19123" tvg-id="" tvg-name="CNBC PRIME TV18 FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fcnbcp.png" group-title="INDIA",CNBC PRIME TV18 FHD
+#EXTINF:-1 xui-id="19123" tvg-id="" tvg-name="CNBC PRIME TV18 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fcnbcp.png" group-title="INDIA",CNBC PRIME TV18 HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFhmka4AreMoAYhuHq5hF3OauT7ipoiA6Z-aM71U44Smw/ts
 #EXTINF:-1 xui-id="19124" tvg-id="" tvg-name="CNBC TV18 NEWS HD ENG" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2FCNBC%20TV18%20NEWS.png" group-title="INDIA",CNBC TV18 NEWS HD ENG
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFscBKkIFo-rQFX4cFGhuAUOkGLUMI2xaMbrgFW0rZIww/ts
@@ -398,46 +403,46 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 #EXTINF:-1 xui-id="19372" tvg-id="Jan.Setu.News.in" tvg-name="JANSETU NEWS HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",JANSETU NEWS HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG0k3sxHHsNSiZj--hacFTJEpfAMPbFLEf6lzjonbTSNA/ts
 #EXTINF:-1 xui-id="19373" tvg-id="" tvg-name="TARA NEWS" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",TARA NEWS
-http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFHDppkxbqEpbD16CkSsBRw396iX4p0ykQ13_ROiMoVLw/ts
-#EXTINF:-1 xui-id="90003" tvg-id="" tvg-name="✦●✦ SPORTS ✦●✦" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",✦●✦ SPORTS ✦●✦
+http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHDppkxbqEpbD16CkSsBRw396iX4p0ykQ13_ROiMoVLw/ts
+#EXTINF:-1 xui-id="90003" tvg-id="" tvg-name="SPORTS" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",SPORTS
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG1qQdXyFS4hYPjnA6uM03RxMnIBv3Aa8FcIjuTvpXE_Q/ts
-#EXTINF:-1 xui-id="19233" tvg-id="sonysixhd.in" tvg-name="SONY TEN 5 FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsny6.png" group-title="INDIA",SONY TEN 5 FHD
+#EXTINF:-1 xui-id="19233" tvg-id="sonysixhd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsny6.png" group-title="INDIA",SONY TEN 5 HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGltU-vNTW_Z7ucl2iGJ2bbwtpRJ5J3ldcwyl4KuFQSrA/ts
 #EXTINF:-1 xui-id="19331" tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2FMALAY%2Fastroaur.png" group-title="INDIA",ASTRO CRICKET HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAETmB0KutZWsh0JGuvsf3g4W8Cl51e0mO0MsZc8Hf5SlA/ts
-#EXTINF:-1 xui-id="19332" tvg-id="starsports1hdhindi.in" tvg-name="STAR SPORTS 1 HINDI FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstrsp1hnd.png" group-title="INDIA",STAR SPORTS 1 HINDI FHD
+#EXTINF:-1 xui-id="19332" tvg-id="starsports1hdhindi.in" tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstrsp1hnd.png" group-title="INDIA",STAR SPORTS 1 HINDI HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHSKjkmjHlrqflvn0STxeqgjfC5t7STyCxTchA1rNjbiA/ts
-#EXTINF:-1 xui-id="19333" tvg-id="starsports1.in" tvg-name="STAR SPORTS 1 FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstarsp1.png" group-title="INDIA",STAR SPORTS 1 FHD
+#EXTINF:-1 xui-id="19333" tvg-id="starsports1.in" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstarsp1.png" group-title="INDIA",STAR SPORTS 1 HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEhkr5LIlPrvEwRvkfvIlIYcgfYIXlWA7P7rqf_4kGtzQ/ts
-#EXTINF:-1 xui-id="19334" tvg-id="starsports2hd.in" tvg-name="STAR SPORTS 2 FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstarsp2.png" group-title="INDIA",STAR SPORTS 2 FHD
+#EXTINF:-1 xui-id="19334" tvg-id="starsports2hd.in" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstarsp2.png" group-title="INDIA",STAR SPORTS 2 HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAH3ua57Lz1EuSnOmW1AClXfeRwXVbdaZ1LaIdj6yLxrrA/ts
 #EXTINF:-1 xui-id="19335" tvg-id="starsports3.in" tvg-name="STAR SPORTS 3 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstrsp3.png" group-title="INDIA",STAR SPORTS 3 HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFy4gO2yQ2f-HZcd24Ar-7sxwqgZtekENsAlp5K0JGlGQ/ts
-#EXTINF:-1 xui-id="19336" tvg-id="starsportsselect1hd.in" tvg-name="STAR SPORTS SELECT 1 FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstrsps1.png" group-title="INDIA",STAR SPORTS SELECT 1 FHD
+#EXTINF:-1 xui-id="19336" tvg-id="starsportsselect1hd.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstrsps1.png" group-title="INDIA",STAR SPORTS SELECT 1 HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAF30NMI-xjgD8JgaR6YovUwpHa6qPLyzyuuTmGtHaSP1w/ts
-#EXTINF:-1 xui-id="19337" tvg-id="starsportsselecthd2.in" tvg-name="STAR SPORTS SELECT 2  FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstrsps2.png" group-title="INDIA",STAR SPORTS SELECT 2  FHD
+#EXTINF:-1 xui-id="19337" tvg-id="starsportsselecthd2.in" tvg-name="STAR SPORTS SELECT 2  HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fstrsps2.png" group-title="INDIA",STAR SPORTS SELECT 2  HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEUjysraoegOqYduZPnQw9qDjD2GmJRap5CQwCVmNCN_A/ts
-#EXTINF:-1 xui-id="19338" tvg-id="" tvg-name="SPORTS 18 FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",SPORTS 18 FHD
+#EXTINF:-1 xui-id="19338" tvg-id="" tvg-name="SPORTS 18 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",SPORTS 18 HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAF382x524-HwowtCP9zJyey27wdeepXelmknfE4P12XsA/ts
-#EXTINF:-1 xui-id="19339" tvg-id="" tvg-name="SPORTS 18 2 FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",SPORTS 18 2 FHD
+#EXTINF:-1 xui-id="19339" tvg-id="" tvg-name="SPORTS 18 2 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",SPORTS 18 2 HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAH8ptgBdj7QzdFM1-x3pfFbHsTOnBEnm7ur1R-yGEGTmg/ts
-#EXTINF:-1 xui-id="19340" tvg-id="" tvg-name="SPORTS 18 3 FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",SPORTS 18 3 FHD
+#EXTINF:-1 xui-id="19340" tvg-id="" tvg-name="SPORTS 18 3 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",SPORTS 18 3 HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHeqWLS6Z92INFvYYc4uVcmFQCx1bW-zdWI1Q5BlhOkiA/ts
 #EXTINF:-1 xui-id="19341" tvg-id="ddsports.in" tvg-name="DD SPORTS HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fddsp.png" group-title="INDIA",DD SPORTS HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHs3bsfZlRQcB8oH5FUjkt7EiCtFR7xyU3AWSVmQvBlXw/ts
-#EXTINF:-1 xui-id="19342" tvg-id="" tvg-name="TEN SPORTS FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Ftensp1.png" group-title="INDIA",TEN SPORTS FHD
+#EXTINF:-1 xui-id="19342" tvg-id="" tvg-name="TEN SPORTS HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Ftensp1.png" group-title="INDIA",TEN SPORTS HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG-86mmDIH0pipyixCz_pLboF95XNLuCdXVrd08S2E-8g/ts
-#EXTINF:-1 xui-id="19343" tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsnytn1.png" group-title="INDIA",SONY TEN 1 FHD
+#EXTINF:-1 xui-id="19343" tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsnytn1.png" group-title="INDIA",SONY TEN 1 HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG362-Px-92t4zdWaCuLAF1pNUCsuzktzx7rvYafTojVQ/ts
-#EXTINF:-1 xui-id="19344" tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsnytn2.png" group-title="INDIA",SONY TEN 2 FHD
+#EXTINF:-1 xui-id="19344" tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsnytn2.png" group-title="INDIA",SONY TEN 2 HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAETCqI_SjxDMWA1BbY7B1e7YD6tj9SEDBSHVRKA_AU5Ig/ts
-#EXTINF:-1 xui-id="19345" tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsnytn3.png" group-title="INDIA",SONY TEN 3 FHD
+#EXTINF:-1 xui-id="19345" tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsnytn3.png" group-title="INDIA",SONY TEN 3 HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFc54Te5BpwRr-2Fa2ZqD3gTuuVdnfIvUTynyDjs-kkAA/ts
 #EXTINF:-1 xui-id="19346" tvg-id="" tvg-name="SONY TEN 4 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fsnyten4.png" group-title="INDIA",SONY TEN 4 HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAH92pXFIKKmNwbqMA0fSh1sqs8ZBrK7dpylU8yt9pssiQ/ts
 #EXTINF:-1 xui-id="19347" tvg-id="" tvg-name="PTV SPORTS HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fptsp.png" group-title="INDIA",PTV SPORTS HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHxjuUaLk-u-ylq7j2QLD0LDUmNhDUtSkp4wr3-pHygXg/ts
-#EXTINF:-1 xui-id="19348" tvg-id="Jio.Events.HD.in" tvg-name="JIO EVENTS FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",JIO EVENTS FHD
+#EXTINF:-1 xui-id="19348" tvg-id="Jio.Events.HD.in" tvg-name="JIO EVENTS HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",JIO EVENTS HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEzKi8rWjB0LMO1y-Cb4UhOLGBUqDcZ4kBOWv1xYjbbtA/ts
 #EXTINF:-1 xui-id="19349" tvg-id="Willow.Cricket.HD.us2" tvg-name="WILLOW CRICKET HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2FWILLOW%20CRICKET%20HD.png" group-title="INDIA",WILLOW CRICKET HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEMaw4i7ApK2z51Rthg5XUjOaPfvJk-UfE99NTBJ9rLqQ/ts
@@ -453,17 +458,17 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGppoT7yAIi4K0gGa3v2uQ8qs-nRGy1JF6QLPVXjV3ioQ/ts
 #EXTINF:-1 xui-id="19355" tvg-id="" tvg-name="Hub Sports 5" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",Hub Sports 5
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGGts2qDCgAgZZawsDzuEBQZTa_7fxVrDC5XwoQv1wh7Q/ts
-#EXTINF:-1 xui-id="19356" tvg-id="" tvg-name="GEO SUPER FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fgeosu.png" group-title="INDIA",GEO SUPER FHD
+#EXTINF:-1 xui-id="19356" tvg-id="" tvg-name="GEO SUPER HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fgeosu.png" group-title="INDIA",GEO SUPER HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHvhVeNgmB8rIF7MbxE8Gnu30P_SeFvP9rZBhSOs6jihA/ts
 #EXTINF:-1 xui-id="19357" tvg-id="" tvg-name="CHANNEL Y HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fchny.png" group-title="INDIA",CHANNEL Y HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGQ55mf536EtNN3ZZq4PBgGg8eQOysUCXEsTe-OsOO5Rw/ts
-#EXTINF:-1 xui-id="19396" tvg-id="" tvg-name="PTV SPORTS FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fptsp.png" group-title="INDIA",PTV SPORTS FHD
+#EXTINF:-1 xui-id="19396" tvg-id="" tvg-name="PTV SPORTS HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fptsp.png" group-title="INDIA",PTV SPORTS HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFxVYs1u_0RMKKapSkCQvXNWU9tbLFb8A0j5rH-80wYkA/ts
-#EXTINF:-1 xui-id="90004" tvg-id="" tvg-name="✦●✦ KIDS ✦●✦" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",✦●✦ KIDS ✦●✦
+#EXTINF:-1 xui-id="90004" tvg-id="" tvg-name="KIDS" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",KIDS
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG1qQdXyFS4hYPjnA6uM03RxMnIBv3Aa8FcIjuTvpXE_Q/ts
 #EXTINF:-1 xui-id="19267" tvg-id="babytvhd.in" tvg-name="BABY TV HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fbby.png" group-title="INDIA",BABY TV HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEl-Hv9Rasq6NTIUTxlJsoX3dDLteL_AcBYcEQHWDGmzA/ts
-#EXTINF:-1 xui-id="19268" tvg-id="cartoonnetworkhd.in" tvg-name="CARTOON NETWORK ENG FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fcrtnet.png" group-title="INDIA",CARTOON NETWORK ENG FHD
+#EXTINF:-1 xui-id="19268" tvg-id="cartoonnetworkhd.in" tvg-name="CARTOON NETWORK ENG HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fcrtnet.png" group-title="INDIA",CARTOON NETWORK ENG HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAE5YSnSGZtrMpHj1Rn_AZQrNfdd2RRQiZ7wdvK40fud7A/ts
 #EXTINF:-1 xui-id="19269" tvg-id="Cartoon.Network.HD.us2" tvg-name="CARTOON NETWORK" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fcrtnet.png" group-title="INDIA",CARTOON NETWORK
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAF9KYIfXrfp-KPUYATp-JwxS8qzkhSPcMq4nZoqRfsdrg/ts
@@ -479,11 +484,11 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG1XAfUI8Nhhu7AemSfD07EFcsbv7AONoZ7APy7zEcc5A/ts
 #EXTINF:-1 xui-id="19275" tvg-id="Nick.Telugu.in" tvg-name="NICK PLUS HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2FNICK%20PLUS%20HD.png" group-title="INDIA",NICK PLUS HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGXXg0XfSp0MfDg37aTSAFIxllds05RX9ZFL3xmLebooQ/ts
-#EXTINF:-1 xui-id="19276" tvg-id="nick.in" tvg-name="NICK FHD+" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fnick.png" group-title="INDIA",NICK FHD+
+#EXTINF:-1 xui-id="19276" tvg-id="nick.in" tvg-name="NICK HD+" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fnick.png" group-title="INDIA",NICK HD+
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGgrZJi_RuZ9zBCt6m5EoCJNWNuVXvIH9Jrw3dz9f-1iQ/ts
-#EXTINF:-1 xui-id="19277" tvg-id="nickjrin.in" tvg-name="NICK JUNIOR FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fnickj.png" group-title="INDIA",NICK JUNIOR FHD
+#EXTINF:-1 xui-id="19277" tvg-id="nickjrin.in" tvg-name="NICK JUNIOR HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fnickj.png" group-title="INDIA",NICK JUNIOR HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGh79c9bPcEx3hQ5JsoHVY7rOUlOtcYkK3eSE3QzNcWqw/ts
-#EXTINF:-1 xui-id="19278" tvg-id="nickhdplus.in" tvg-name="NICK+ FHD ENGLISH FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fnickeng.png" group-title="INDIA",NICK+ FHD ENGLISH FHD
+#EXTINF:-1 xui-id="19278" tvg-id="nickhdplus.in" tvg-name="NICK+ HD ENGLISH HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fnickeng.png" group-title="INDIA",NICK+ HD ENGLISH HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG-3tBC81f_4L5z0dw2AEL_2hnDffuLDbq0IWMGmsclCA/ts
 #EXTINF:-1 xui-id="19279" tvg-id="sonicnickelodeon.in" tvg-name="NICK SONIC HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fnicksnc.png" group-title="INDIA",NICK SONIC HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAF87_RN7ebVJP8s5TCU_fjg-GTHgfsDpQhYT6sXFeiJ9A/ts
@@ -495,7 +500,7 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEAOoWNemt2oxEu31wX4FHAY-WdGz9AOEmRv_hKcSq1jg/ts
 #EXTINF:-1 xui-id="19392" tvg-id="" tvg-name="HUNGAMA KIDS" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",HUNGAMA KIDS
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAH15EADUxnntOX8G5Ad0OefM9GDvUPOPlJAffcr88-Fmg/ts
-#EXTINF:-1 xui-id="90005" tvg-id="" tvg-name="✦●✦ INFOTAINMENT ✦●✦" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",✦●✦ INFOTAINMENT ✦●✦
+#EXTINF:-1 xui-id="90005" tvg-id="" tvg-name="INFOTAINMENT" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",INFOTAINMENT
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG1qQdXyFS4hYPjnA6uM03RxMnIBv3Aa8FcIjuTvpXE_Q/ts
 #EXTINF:-1 xui-id="19088" tvg-id="" tvg-name="COOKING ACTIVE SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fcokinac.png" group-title="INDIA",COOKING ACTIVE SD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG9jv6OBhqtdanefh51zTyewDVqrBiLB3ngVN70ySCskw/ts
@@ -503,25 +508,25 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEbUiFniaBnrgYssoKvEOXgnWyxLldIBPUZkjTTKRANUA/ts
 #EXTINF:-1 xui-id="19286" tvg-id="" tvg-name="FOX LIFE HD ENG" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2FFOX%20LIFE%20HD%20ENG.png" group-title="INDIA",FOX LIFE HD ENG
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHMDIc1AcBQI4jpA7aHzevMXM_Jm7qpE6zT9q0OkMNk2w/ts
-#EXTINF:-1 xui-id="19287" tvg-id="tlchdworld.in" tvg-name="TLC WORLD FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Ftlcwrd.png" group-title="INDIA",TLC WORLD FHD
+#EXTINF:-1 xui-id="19287" tvg-id="tlchdworld.in" tvg-name="TLC WORLD HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Ftlcwrd.png" group-title="INDIA",TLC WORLD HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAH4VhosZoBqFtHq_Za_ydFOK-jiOmRANG45vKooCzc9Eg/ts
-#EXTINF:-1 xui-id="19288" tvg-id="History.TV18.HD.Hindi.in" tvg-name="HISTORY TV18 HINDI FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fhisteng.png" group-title="INDIA",HISTORY TV18 HINDI FHD
+#EXTINF:-1 xui-id="19288" tvg-id="History.TV18.HD.Hindi.in" tvg-name="HISTORY TV18 HINDI HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fhisteng.png" group-title="INDIA",HISTORY TV18 HINDI HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFE5WWHjKzyxBvgiJ-2tikQkgCGwg8wfhpx4uEZ0w1Y8w/ts
-#EXTINF:-1 xui-id="19289" tvg-id="" tvg-name="HISTORY TV18 ENG FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fhisteng.png" group-title="INDIA",HISTORY TV18 ENG FHD
+#EXTINF:-1 xui-id="19289" tvg-id="" tvg-name="HISTORY TV18 ENG HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fhisteng.png" group-title="INDIA",HISTORY TV18 ENG HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGfSndHxrrR_F-_LEjkIR_dRbFLEVDdju1Xf02sxqXjZg/ts
 #EXTINF:-1 xui-id="19290" tvg-id="" tvg-name="SONY BBC EARTH ENG HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2FSONY%20BBC%20EARTH%20HINDI%20HD.png" group-title="INDIA",SONY BBC EARTH ENG HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFj1DHRQ9eRhV9r9yFSFwUOfm05YL6NtYZeD8iuCPgDVg/ts
 #EXTINF:-1 xui-id="19291" tvg-id="natgeowild.in" tvg-name="NAT GEO HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fntge.png" group-title="INDIA",NAT GEO HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFazG2i6sUIJOTv72HPWQ4mdiaWN1huyYF1aCNd_WZ0iQ/ts
-#EXTINF:-1 xui-id="19292" tvg-id="natgeowildhd.in" tvg-name="NAT GEO WILD FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fntgew.png" group-title="INDIA",NAT GEO WILD FHD
+#EXTINF:-1 xui-id="19292" tvg-id="natgeowildhd.in" tvg-name="NAT GEO WILD HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fntgew.png" group-title="INDIA",NAT GEO WILD HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFfs5rwy10Ii-ttNlvjLp-JXD-glGDioW71K-brC_32eQ/ts
-#EXTINF:-1 xui-id="19293" tvg-id="" tvg-name="NAT GEO FHD ENG" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fntge.png" group-title="INDIA",NAT GEO FHD ENG
+#EXTINF:-1 xui-id="19293" tvg-id="" tvg-name="NAT GEO HD ENG" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fntge.png" group-title="INDIA",NAT GEO HD ENG
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGWQRKYp1mzbJLKV_xwXc9TZpyZL4Jd5Id8nYydR7SZ-w/ts
-#EXTINF:-1 xui-id="19294" tvg-id="natgeowild.in" tvg-name="NAT GEO WILD ENG FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fntgew.png" group-title="INDIA",NAT GEO WILD ENG FHD
+#EXTINF:-1 xui-id="19294" tvg-id="natgeowild.in" tvg-name="NAT GEO WILD ENG HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fntgew.png" group-title="INDIA",NAT GEO WILD ENG HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFbbFkQ8PJ6Q0hqYpNWarHO3tT5iyNjU5DwJcFHl26OaA/ts
 #EXTINF:-1 xui-id="19295" tvg-id="animalplanethd.in" tvg-name="ANIMAL PLANET HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fanmpl.png" group-title="INDIA",ANIMAL PLANET HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFiXErk73zRSN710SI3Ro_Wfh5dBwkn7yKKZjjoz6lZcg/ts
-#EXTINF:-1 xui-id="19296" tvg-id="animalplanethd.in" tvg-name="ANIMAL PLANET ENG FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fanmpl.png" group-title="INDIA",ANIMAL PLANET ENG FHD
+#EXTINF:-1 xui-id="19296" tvg-id="animalplanethd.in" tvg-name="ANIMAL PLANET ENG HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fanmpl.png" group-title="INDIA",ANIMAL PLANET ENG HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGiq1m-RkuPdREFk8CbNNN0pVTsCkGaqa40bnH48ZY4uA/ts
 #EXTINF:-1 xui-id="19297" tvg-id="discoveryturbo.in" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fdistur.png" group-title="INDIA",DISCOVERY TURBO HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHwLhTap9XwWBEeA3dMT3HJWKprDztaqo92zwE3IgxrWg/ts
@@ -529,7 +534,7 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGQJgxkIi94vkdArn7p2NfHYFTYTXenm5S4t_g93ROEuQ/ts
 #EXTINF:-1 xui-id="19299" tvg-id="Discovery.HD.World.in" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fdiswd.png" group-title="INDIA",DISCOVERY WORLD HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEaAlZnxQXYgq0KqCPt5Xkfx4j8pinhEi_rwOVNJhN_9A/ts
-#EXTINF:-1 xui-id="19300" tvg-id="" tvg-name="DISCOVERY ENGLISH FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fdsyeng.png" group-title="INDIA",DISCOVERY ENGLISH FHD
+#EXTINF:-1 xui-id="19300" tvg-id="" tvg-name="DISCOVERY ENGLISH HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fdsyeng.png" group-title="INDIA",DISCOVERY ENGLISH HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGObvjWd9Bg8Bznu2FmPMIKseB46x0YMYIQG1K9YnUrFA/ts
 #EXTINF:-1 xui-id="19301" tvg-id="Investigation.Discovery.HD.us2" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Finvgdis.png" group-title="INDIA",INVESTIGATION DISCOVERY HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHh3h83rI29TFmMxS5QSIjEgPv0C0gYPtuKCCdxKOSxMA/ts
@@ -541,7 +546,7 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAF-_SKvCLDP2EL2jaC9IIAvtjogVc4KHGtMCu5_-gqUjA/ts
 #EXTINF:-1 xui-id="19393" tvg-id="foodfood.in" tvg-name="FOOD FOOD HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Ffodind.png" group-title="INDIA",FOOD FOOD HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEWEBY7CdDHHH7tdGDEOMBmD_saChjrv6IMAl6qNZ0n0A/ts
-#EXTINF:-1 xui-id="90006" tvg-id="" tvg-name="✦●✦ MUSIC ✦●✦" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",✦●✦ MUSIC ✦●✦
+#EXTINF:-1 xui-id="90006" tvg-id="" tvg-name="MUSIC" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",MUSIC
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG1qQdXyFS4hYPjnA6uM03RxMnIBv3Aa8FcIjuTvpXE_Q/ts
 #EXTINF:-1 xui-id="19316" tvg-id="9xm.in" tvg-name="9XM HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2F9xm.png" group-title="INDIA",9XM HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGlRp4u5zgeHANCke-HzknFizlm6NAHssYpMKC_lKUIug/ts
@@ -553,7 +558,7 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHySv4HJ55X-8KngHGIjHYJuqcNfllJWgSjEkryhT5cFg/ts
 #EXTINF:-1 xui-id="19320" tvg-id="mtv.in" tvg-name="MTV HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fmtv.png" group-title="INDIA",MTV HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGqdKyebv5Ho-MAfcSfV5NEJkYHzbZc-R0AQJP2h-OvBg/ts
-#EXTINF:-1 xui-id="19321" tvg-id="mtvhdplus.in" tvg-name="MTV FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fmtvhd.png" group-title="INDIA",MTV FHD
+#EXTINF:-1 xui-id="19321" tvg-id="mtvhdplus.in" tvg-name="MTV HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fmtvhd.png" group-title="INDIA",MTV HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAE4HSpwpauxcT68ZVWLlrzhOi7xRVLVi-sC8ASHoF6osg/ts
 #EXTINF:-1 xui-id="19322" tvg-id="MTV.HD.in" tvg-name="MTV PLUS HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2FMTV%20PLUS%20HD.png" group-title="INDIA",MTV PLUS HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEpOAhhnRROIsDSiWnT0pYbGmo4jbeNbz58Jq2_su94VA/ts
@@ -577,7 +582,7 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFsR_74UhPcdve01XSdCBkY9pIAkzvdyPD7w1UBBn7YuQ/ts
 #EXTINF:-1 xui-id="19390" tvg-id="" tvg-name="ZEE5 MUSIC CO HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",ZEE5 MUSIC CO HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAE9x4HFk2RcjKvgNAMLTX_CWwhU01jd0Mp_VlC6JmVMUQ/ts
-#EXTINF:-1 xui-id="90007" tvg-id="" tvg-name="✦●✦ DEVOTIONAL / RELIGIOUS ✦●✦" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",✦●✦ DEVOTIONAL / RELIGIOUS ✦●✦
+#EXTINF:-1 xui-id="90007" tvg-id="" tvg-name="DEVOTIONAL / RELIGIOUS" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",DEVOTIONAL / RELIGIOUS
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG1qQdXyFS4hYPjnA6uM03RxMnIBv3Aa8FcIjuTvpXE_Q/ts
 #EXTINF:-1 xui-id="19052" tvg-id="aastha.in" tvg-name="AASTHA HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Faastha.png" group-title="INDIA",AASTHA HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAF1perNOHyU2KySguKP43svKf9oskqcIr-PCMgEYPwQzA/ts
@@ -629,7 +634,7 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEzdvxjNKLrffRPKXVQszwtQmtO9770CO8bDE8_SpjPgQ/ts
 #EXTINF:-1 xui-id="19364" tvg-id="" tvg-name="SUBHARTI TV" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",SUBHARTI TV
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGbuzoNvepKiswx_HJWzmUJ_i8JyoZ_bCUHUX4iKc9w3w/ts
-#EXTINF:-1 xui-id="90008" tvg-id="" tvg-name="✦●✦ REGIONAL ✦●✦" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",✦●✦ REGIONAL ✦●✦
+#EXTINF:-1 xui-id="90008" tvg-id="" tvg-name="REGIONAL" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="INDIA",REGIONAL
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG1qQdXyFS4hYPjnA6uM03RxMnIBv3Aa8FcIjuTvpXE_Q/ts
 #EXTINF:-1 xui-id="19050" tvg-id="nepal1.in" tvg-name="NEPAL 1 HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fnpl1.png" group-title="INDIA",NEPAL 1 HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFSMfNwgshZnCw_sjfXucDEQLtXkiiCbkQX6CBTvu-ZNg/ts
@@ -711,7 +716,7 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFlIBJ-bJpJnIK_gfDpsrXjf26x1kc6IhkrHki62uiPEg/ts
 #EXTINF:-1 xui-id="19403" tvg-id="" tvg-name="BIGG BOSS 24X7 MARATHI" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fbboss.png" group-title="INDIA",BIGG BOSS 24X7 MARATHI
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEOFbvF5UyvwwjxyKMvKEvb-tjUsbaEEb1_mm8anfuPPg/ts
-#EXTINF:-1 xui-id="90009" tvg-id="" tvg-name="✦●✦ GENERAL ENTERTAINMENT ✦●✦" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="UK INDIA CHANNELS",✦●✦ GENERAL ENTERTAINMENT ✦●✦
+#EXTINF:-1 xui-id="90009" tvg-id="" tvg-name="GENERAL ENTERTAINMENT" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="UK INDIA CHANNELS",GENERAL ENTERTAINMENT
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG1qQdXyFS4hYPjnA6uM03RxMnIBv3Aa8FcIjuTvpXE_Q/ts
 #EXTINF:-1 xui-id="5497" tvg-id="aryfamily.uk" tvg-name="ARY FAMILY SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Faryfm.png" group-title="UK INDIA CHANNELS",ARY FAMILY SD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGlnn0_Gd5gcSgao04tU3gR/ts
@@ -721,13 +726,13 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEHaAQBIYP_SmRPY8faEhlS/ts
 #EXTINF:-1 xui-id="5501" tvg-id="" tvg-name="NEW VISION SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2FNEW%20VISION.png" group-title="UK INDIA CHANNELS",NEW VISION SD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHWVQoPfZOCY6ohGyYlkLRG/ts
-#EXTINF:-1 xui-id="5505" tvg-id="Utsav.GOLD.uk" tvg-name="UTSAV PLUS FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Futspl.png" group-title="UK INDIA CHANNELS",UTSAV PLUS FHD
+#EXTINF:-1 xui-id="5505" tvg-id="Utsav.GOLD.uk" tvg-name="UTSAV PLUS HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Futspl.png" group-title="UK INDIA CHANNELS",UTSAV PLUS HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAE70dJ1maOLYYa27E7AuuXV/ts
 #EXTINF:-1 xui-id="5507" tvg-id="Utsav.GOLD.uk" tvg-name="UTSAV PLUS HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Futspl.png" group-title="UK INDIA CHANNELS",UTSAV PLUS HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEnhwyVz3l1XODQkQo6kb96/ts
 #EXTINF:-1 xui-id="5508" tvg-id="Utsav.GOLD.uk" tvg-name="UTSAV PLUS SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Futspl.png" group-title="UK INDIA CHANNELS",UTSAV PLUS SD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHOUsUN9dB19YSf7wshemcK/ts
-#EXTINF:-1 xui-id="5510" tvg-id="colors.uk" tvg-name="COLORS FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Fcolr0.png" group-title="UK INDIA CHANNELS",COLORS FHD
+#EXTINF:-1 xui-id="5510" tvg-id="colors.uk" tvg-name="COLORS HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Fcolr0.png" group-title="UK INDIA CHANNELS",COLORS HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG2EybY3-K5VEJqYpXzWi1s/ts
 #EXTINF:-1 xui-id="5518" tvg-id="colors.uk" tvg-name="COLORS SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Fcolr0.png" group-title="UK INDIA CHANNELS",COLORS SD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGjYSyTEB2WsZPcXXSFO-hA/ts
@@ -753,7 +758,7 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFZGoGxIQVyNOHgGy1jOUwU/ts
 #EXTINF:-1 xui-id="5550" tvg-id="" tvg-name="SONY ASIA HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Fsony.png" group-title="UK INDIA CHANNELS",SONY ASIA HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAH8ZOeXBo8zH6TuRFLy8AH6/ts
-#EXTINF:-1 xui-id="90010" tvg-id="" tvg-name="✦●✦ MOVIES ✦●✦" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="UK INDIA CHANNELS",✦●✦ MOVIES ✦●✦
+#EXTINF:-1 xui-id="90010" tvg-id="" tvg-name="MOVIES" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="UK INDIA CHANNELS",MOVIES
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG1qQdXyFS4hYPjnA6uM03RxMnIBv3Aa8FcIjuTvpXE_Q/ts
 #EXTINF:-1 xui-id="5506" tvg-id="Utsav.GOLD.uk" tvg-name="UTSAV GOLD HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Futsgl.png" group-title="UK INDIA CHANNELS",UTSAV GOLD HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEvdqao1s8o6oEZS0IMb-fY/ts
@@ -769,7 +774,7 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHTm0U7NjIzXMGvjCDZn0jF/ts
 #EXTINF:-1 xui-id="5540" tvg-id="zeecinema.uk" tvg-name="ZEE CINEMA SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Fzec.png" group-title="UK INDIA CHANNELS",ZEE CINEMA SD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFI45ymN1t6UpP7yhcyEdxA/ts
-#EXTINF:-1 xui-id="90011" tvg-id="" tvg-name="✦●✦ NEWS & CURRENT AFFAIRS ✦●✦" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="UK INDIA CHANNELS",✦●✦ NEWS & CURRENT AFFAIRS ✦●✦
+#EXTINF:-1 xui-id="90011" tvg-id="" tvg-name="NEWS & CURRENT AFFAIRS" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="UK INDIA CHANNELS",NEWS & CURRENT AFFAIRS
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG1qQdXyFS4hYPjnA6uM03RxMnIBv3Aa8FcIjuTvpXE_Q/ts
 #EXTINF:-1 xui-id="5500" tvg-id="dawnnews.pk" tvg-name="DAWN NEWS SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Fdawns.png" group-title="UK INDIA CHANNELS",DAWN NEWS SD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAE7ixzLmEJQrymxqo6hkfWA/ts
@@ -787,13 +792,13 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGMOjEcnqIA5zgbZ5ecyX80/ts
 #EXTINF:-1 xui-id="5523" tvg-id="humnews.pk" tvg-name="HUM NEWS SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Fhumns.png" group-title="UK INDIA CHANNELS",HUM NEWS SD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGQRntlHoo5q9MizXXKAXuM/ts
-#EXTINF:-1 xui-id="5530" tvg-id="wion.uk" tvg-name="WION FHD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2FWION.png" group-title="UK INDIA CHANNELS",WION FHD
+#EXTINF:-1 xui-id="5530" tvg-id="wion.uk" tvg-name="WION HD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2FWION.png" group-title="UK INDIA CHANNELS",WION HD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHmBCliwPx72we_agIiPipp/ts
 #EXTINF:-1 xui-id="5545" tvg-id="samaa.uk" tvg-name="SAMAA" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2FSAMAA.png" group-title="UK INDIA CHANNELS",SAMAA
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEiCO2n8Q-BEPB9TQCsanGC/ts
 #EXTINF:-1 xui-id="5546" tvg-id="republictv.in" tvg-name="REPUBLIC TV" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2FREPUBLIC.png" group-title="UK INDIA CHANNELS",REPUBLIC TV
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHYzfT-bcrnrDWq5J0DgXQS/ts
-#EXTINF:-1 xui-id="90012" tvg-id="" tvg-name="✦●✦ MUSIC ✦●✦" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="UK INDIA CHANNELS",✦●✦ MUSIC ✦●✦
+#EXTINF:-1 xui-id="90012" tvg-id="" tvg-name="MUSIC" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="UK INDIA CHANNELS",MUSIC
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG1qQdXyFS4hYPjnA6uM03RxMnIBv3Aa8FcIjuTvpXE_Q/ts
 #EXTINF:-1 xui-id="5538" tvg-id="b4umusic.uk" tvg-name="B4U MUSIC SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Fb4ums.png" group-title="UK INDIA CHANNELS",B4U MUSIC SD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEpw891C5u2p_uG0OhJk9xl/ts
@@ -801,7 +806,7 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAFxybzoIbJaN6yOC9OyAd9r/ts
 #EXTINF:-1 xui-id="5548" tvg-id="B4U.Music.uk" tvg-name="B4U PLUS" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2FB4U%20PLUS.png" group-title="UK INDIA CHANNELS",B4U PLUS
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEwfAJ7QAwUINbl_m3h8EoU/ts
-#EXTINF:-1 xui-id="90013" tvg-id="" tvg-name="✦●✦ DEVOTIONAL / RELIGIOUS ✦●✦" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="UK INDIA CHANNELS",✦●✦ DEVOTIONAL / RELIGIOUS ✦●✦
+#EXTINF:-1 xui-id="90013" tvg-id="" tvg-name="DEVOTIONAL / RELIGIOUS" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="UK INDIA CHANNELS",DEVOTIONAL / RELIGIOUS
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG1qQdXyFS4hYPjnA6uM03RxMnIBv3Aa8FcIjuTvpXE_Q/ts
 #EXTINF:-1 xui-id="5514" tvg-id="akaalchannel.uk" tvg-name="AKAAL TV SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Faka.png" group-title="UK INDIA CHANNELS",AKAAL TV SD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAEB3uxDGPblZ0BEU87r0CIH/ts
@@ -825,7 +830,7 @@ http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5u
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAGElEa51oYhFsPnNRDPY_tv/ts
 #EXTINF:-1 xui-id="5544" tvg-id="iqratv.uk" tvg-name="IQRA TV" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2FIQRA%20TV.png" group-title="UK INDIA CHANNELS",IQRA TV
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAETDn7jxkx5-KTDSNHj-AIb/ts
-#EXTINF:-1 xui-id="90014" tvg-id="" tvg-name="✦●✦ REGIONAL ✦●✦" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="UK INDIA CHANNELS",✦●✦ REGIONAL ✦●✦
+#EXTINF:-1 xui-id="90014" tvg-id="" tvg-name="REGIONAL" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Find%2Fflg.png" group-title="UK INDIA CHANNELS",REGIONAL
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAG1qQdXyFS4hYPjnA6uM03RxMnIBv3Aa8FcIjuTvpXE_Q/ts
 #EXTINF:-1 xui-id="5532" tvg-id="ptcpunjabi.uk" tvg-name="PTC PUNJABI SD" tvg-logo="https://stariptv.me/api/iptv/logo-proxy?url=https%3A%2F%2Flo1.in%2Fuk%2Fptcpu.png" group-title="UK INDIA CHANNELS",PTC PUNJABI SD
 http://85.137.55.250:80/play/kel7_UfBbygSCxf-VJZ1WOYIWeJa2w0cumbnYEwRckzrPL_cw5uCJ9mwrSNNfSqOnPVhvxoIBVxwdhAU4gwrcMYziB7OKGXkRPXOzVn9bAHiekpgwbEcTy8DcylV-TlN/ts
